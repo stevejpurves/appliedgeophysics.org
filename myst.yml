@@ -5,11 +5,10 @@ project:
   description: Our research group advances numerical methods in simulations, inversions, and machine learning.
   toc:
     - file: index
-    - file: mission
+    - file: about
     - file: open-science
     - file: presentations
     - file: publications
-    - file: team
   plugins:
     - lorem.mjs
 site:
