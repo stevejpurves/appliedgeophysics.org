@@ -25,7 +25,7 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 :email: lheagy@eoas.ubc.ca
 :github: lheagy
 :linkedin: lindsey-heagy-88318248
-:reverse:
+<!-- :reverse: -->
 
 :::
 
@@ -37,7 +37,7 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 :email: doug@eoas.ubc.ca
 :github: dougoldenburg
 :linkedin: douglas-oldenburg-113b6718
-:reverse:
+<!-- :reverse: -->
 :::
 
 ## Postdoctoral Researchers
@@ -52,7 +52,7 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 <!-- :linkedin: trail-of-url -->
 <!-- :website: link to personal website -->
 :github: santisoler
-:reverse:
+<!-- :reverse: -->
 :::
 
 ## Graduate Students
@@ -66,7 +66,7 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
 <!-- :website: link to personal website -->
-:reverse:
+<!-- :reverse: -->
 :::
 
 :::{person}
@@ -78,7 +78,7 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
 <!-- :website: link to personal website -->
-:reverse:
+<!-- :reverse: -->
 :::
 
 :::{person}
@@ -90,7 +90,7 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
 <!-- :website: link to personal website -->
-:reverse:
+<!-- :reverse: -->
 :::
 
 :::{person}
@@ -102,7 +102,7 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
 <!-- :website: link to personal website -->
-:reverse:
+<!-- :reverse: -->
 :::
 
 :::{person}
@@ -114,7 +114,7 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
 <!-- :website: link to personal website -->
-:reverse:
+<!-- :reverse: -->
 :::
 
 :::{person}
@@ -126,7 +126,7 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
 <!-- :website: link to personal website -->
-:reverse:
+<!-- :reverse: -->
 :::
 
 :::{person}
@@ -138,7 +138,7 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
 <!-- :website: link to personal website -->
-:reverse:
+<!-- :reverse: -->
 :::
 
 :::{person}
@@ -150,7 +150,7 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
 <!-- :website: link to personal website -->
-:reverse:
+<!-- :reverse: -->
 :::
 
 # GIF Alumni
@@ -166,7 +166,7 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
 <!-- :website: link to personal website -->
-:reverse:
+<!-- :reverse: -->
 :::
 
 ## Postdocs
@@ -180,7 +180,7 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
 <!-- :website: link to personal website -->
-:reverse:
+<!-- :reverse: -->
 :::
 
 :::{person}
@@ -192,7 +192,7 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
 <!-- :website: link to personal website -->
-:reverse:
+<!-- :reverse: -->
 :::
 
 :::{person}
@@ -204,7 +204,7 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
 <!-- :website: link to personal website -->
-:reverse:
+<!-- :reverse: -->
 :::
 
 <!-- ## GIF 1.0 graduates -->
