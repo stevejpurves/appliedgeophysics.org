@@ -6,6 +6,7 @@ image: /images/people/LindseyHeagy.jpg
 email: lheagy@eoas.ubc.ca
 github: lheagy
 linkedin: lindsey-heagy-88318248
+# banner: path-to-banner-image
 # website:
 ---
 
