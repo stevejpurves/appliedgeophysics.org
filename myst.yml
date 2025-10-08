@@ -14,4 +14,4 @@ project:
 site:
   template: book-theme
   domains:
-    - stevejpurves-aplanding.curve.space
+    - appliedgeophysics-landing.curve.space
