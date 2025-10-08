@@ -1,6 +1,6 @@
 ---
 title: About
-# subtitle: Our mission and team
+subtitle: Our research and team
 ---
 
 ![photo of the GIF group in 2025](images/people/group-photo-2025.jpeg)
@@ -43,17 +43,6 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 ## Postdoctoral Researchers
 
 :::{person}
-:name: Marco Antonio Couto Jr.
-:position: Postdoctoral Researcher (2024-2025)
-<!-- :orcid: 1000-0000-0000-0000 -->
-:image: /images/people/placeholder-him.png
-<!-- :email: name@eoas.ubc.ca -->
-<!-- :github: ghusername -->
-<!-- :linkedin: trail-of-url -->
-:reverse:
-:::
-
-:::{person}
 :name: Santiago Soler
 :position: Postdoctoral Researcher
 <!-- :orcid: 1000-0000-0000-0000 -->
@@ -61,6 +50,7 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 <!-- :email: name@eoas.ubc.ca -->
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
+<!-- :website: link to personal website -->
 :github: santisoler
 :reverse:
 :::
@@ -75,6 +65,7 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 <!-- :email: name@eoas.ubc.ca -->
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
+<!-- :website: link to personal website -->
 :reverse:
 :::
 
@@ -86,6 +77,7 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 <!-- :email: name@eoas.ubc.ca -->
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
+<!-- :website: link to personal website -->
 :reverse:
 :::
 
@@ -97,6 +89,7 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 <!-- :email: name@eoas.ubc.ca -->
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
+<!-- :website: link to personal website -->
 :reverse:
 :::
 
@@ -108,6 +101,7 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 <!-- :email: name@eoas.ubc.ca -->
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
+<!-- :website: link to personal website -->
 :reverse:
 :::
 
@@ -119,6 +113,7 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 <!-- :email: name@eoas.ubc.ca -->
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
+<!-- :website: link to personal website -->
 :reverse:
 :::
 
@@ -130,6 +125,7 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 <!-- :email: name@eoas.ubc.ca -->
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
+<!-- :website: link to personal website -->
 :reverse:
 :::
 
@@ -141,6 +137,7 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 <!-- :email: name@eoas.ubc.ca -->
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
+<!-- :website: link to personal website -->
 :reverse:
 :::
 
@@ -152,6 +149,7 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 <!-- :email: name@eoas.ubc.ca -->
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
+<!-- :website: link to personal website -->
 :reverse:
 :::
 
@@ -167,12 +165,23 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 <!-- :email: name@eoas.ubc.ca -->
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
+<!-- :website: link to personal website -->
 :reverse:
 :::
 
 ## Postdocs
 
-
+:::{person}
+:name: Marco Antonio Couto Jr.
+:position: Postdoctoral Researcher (2024-2025)
+<!-- :orcid: 1000-0000-0000-0000 -->
+:image: /images/people/placeholder-him.png
+<!-- :email: name@eoas.ubc.ca -->
+<!-- :github: ghusername -->
+<!-- :linkedin: trail-of-url -->
+<!-- :website: link to personal website -->
+:reverse:
+:::
 
 :::{person}
 :name: Jorge Lopez-Alvis
@@ -182,6 +191,7 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 <!-- :email: name@eoas.ubc.ca -->
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
+<!-- :website: link to personal website -->
 :reverse:
 :::
 
@@ -193,8 +203,9 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 <!-- :email: name@eoas.ubc.ca -->
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
+<!-- :website: link to personal website -->
 :reverse:
 :::
 
-## GIF 1.0 graduates
+<!-- ## GIF 1.0 graduates -->
 
